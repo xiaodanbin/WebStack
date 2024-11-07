@@ -1,0 +1,16 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 作者
+  icon: fab fa-hive
+  link: https://www.weiyan.cc
+
+- item: 开源
+  icon: fa fa-cog
+  link: ""
+  list:
+    - name: 关于
+      url: "https://github.com/orgs/bioitee/discussions/20"
+    - name: 源码
+      url: "https://github.com/bioitee/BioWebStack"
